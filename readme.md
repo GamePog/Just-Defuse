@@ -7,4 +7,4 @@ Bruno Oliveira
 Thiago Barbieri
 
 Um jogo desenvolvido por três alunos de Cabeamento Estruturado e Redes Telefônicas do IFSC.
-O jogo é desenvolvido utilizando diversos quebra-cabeças com a premissa principal de desarmar uma bomba utilizando o conteúdo de Cabeamento Estruturad e Redes Telefônicas.
+O jogo é desenvolvido utilizando diversos quebra-cabeças com a premissa principal de desarmar uma bomba utilizando o conteúdo de Cabeamento Estruturado e Redes Telefônicas.
